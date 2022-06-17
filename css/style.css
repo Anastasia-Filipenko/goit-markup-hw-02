@@ -57,6 +57,8 @@ font-weight: 700;
 font-size: 26px;
 line-height: 31px;
 letter-spacing: 0.03em;
+text-decoration: none;
+
 }
 
 .logo-first{
@@ -201,7 +203,7 @@ color: var(--color-acсent);
 .button-nav:focus,
 .button-nav:active{
     color: #fff;
-    background-color: var(--color-accent);
+    background-color: var(--color-acсent);
 }
 
 
